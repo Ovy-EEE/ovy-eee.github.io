@@ -62,3 +62,16 @@ npm run build
 ```bash
 npm run preview
 ```
+
+---
+
+## 🌐 Deploying to GitHub Pages
+
+The repository is pre-configured for automated GitHub Pages deployment using GitHub Actions:
+
+1. Push this code to the repository `https://github.com/Ovy-EEE/ovy-eee.github.io` on branch `main`.
+2. Go to your repository on GitHub:
+   - Navigate to **Settings** > **Pages**
+   - Under **Build and deployment** > **Source**, choose **GitHub Actions**
+3. That's all! The workflow in `.github/workflows/deploy.yml` will automatically build the site and deploy it to:
+   - **`https://ovy-eee.github.io/`**

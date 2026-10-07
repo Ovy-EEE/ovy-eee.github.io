@@ -186,7 +186,7 @@
 
         <div class="flex items-center gap-4">
           <a 
-            href="/Sanwar Ahmed Ovy(CV).docx" 
+            href="./Sanwar Ahmed Ovy(CV).docx" 
             download="Sanwar_Ahmed_Ovy_CV.docx"
             class="hover:text-cyan-300 flex items-center gap-1.5 text-slate-300 transition-colors"
           >
